@@ -1,6 +1,7 @@
 Does this work as a word doc or what?
 
-I would like to introduce an idea for an open source framework to improve communication and build teams.  The framework is based on various methodologies including Lean Startup, Scrum, PRINCE 2.  I would like to have your feedback regarding the framework and hear about general interest in starting it as an open source project.
+I would like to introduce an idea for an open source framework to improve communication and build teams.  The implementation of the framework is based on various methods including Lean Startup, Scrum, and PRINCE 2.  I would like to have your feedback regarding the framework and hear about general interest in starting it as an open source project.
+
 The meetup is targeted all lean, agile, designer, coder, entrepreneur, and start up types that use processes in your daily work and/or want to learn more about how to implement various methodologies into your daily processes to improve the communication of teams and help build stronger teams.
 The idea is to start a group having the goal to start an open source framework for improving communication and building teams.  Each meeting is at the end of a sprint and it is to recap the previous sprint and determine if any changes can be approved into the master branch of the project.  If yes then merge is done and if not then nothing.  People continue to work on their branches.
 The first meeting will be the first experiment which is the pitch and if there are any feedback for it.
