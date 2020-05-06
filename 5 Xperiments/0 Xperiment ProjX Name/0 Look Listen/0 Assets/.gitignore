@@ -1,5 +1,8 @@
 *.tmp
 
+# OpenOffice
+*.o*
+
 # Google
 *.g*
 
