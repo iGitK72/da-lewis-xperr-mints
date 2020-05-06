@@ -1,4 +1,4 @@
-LEARNX
+LEARNX is an Agile Enterprise Achitecture framework.
 
 L:  Look & Listen before you Leap  
 The Inception: Vision & Problem identification – WHY?
