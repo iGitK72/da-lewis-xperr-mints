@@ -1,0 +1,4 @@
+# Ignore everything in this directory
+*
+# Except this file - after you begin to save artefacts then you will want to edit or comment out the above line
+!.gitignore
