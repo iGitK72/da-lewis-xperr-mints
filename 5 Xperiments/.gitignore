@@ -1,0 +1,13 @@
+# Ignore everything including Xperrmints for Customers (create own Git if they want that, otherwise this is going into Innovation Sandbox):
+*
+
+# Except this file - after you begin to save artefacts then you will want to edit or comment out the above line
+!.gitignore
+
+# And the README.md
+!README.md
+
+# Except directories for the Template folder to Copy for a New Structure:
+
+!0_Xperiment_ProjX_Copy_To_NewName/
+!0_Xperiment_ProjX_Copy_To_NewName/*/
