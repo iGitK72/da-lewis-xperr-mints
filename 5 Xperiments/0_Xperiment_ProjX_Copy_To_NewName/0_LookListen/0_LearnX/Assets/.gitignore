@@ -1,3 +1,6 @@
+#Ignore these types including Excels and Gsheets
+
+# Temp files
 *.tmp
 
 # OpenOffice
