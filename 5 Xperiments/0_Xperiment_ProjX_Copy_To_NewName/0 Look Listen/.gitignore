@@ -8,5 +8,7 @@
 !README.md
 
 
-# And the README.md
+# And the Assets folder and contents
 !0_Assets/
+!0_Assets/*
+!0_Assets/*/
