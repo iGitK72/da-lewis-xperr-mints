@@ -1,4 +1,4 @@
-#Ignore these types including Excels and Gsheets
+#Ignore these types NOT including Excels and Gsheets
 
 # Temp files
 *.tmp
@@ -7,7 +7,7 @@
 *.o*
 
 # Google
-*.g*
+# *.g*
 
 # Word temporary
 ~$*.doc*
@@ -20,7 +20,7 @@ Backup of *.doc*
 
 # Excel and Backup File
 *.xlk
-*.xls*
+#*.xls*
 
 # PowerPoint and temporary
 ~$*.ppt*
